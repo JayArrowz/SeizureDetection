@@ -1,0 +1,40 @@
+c:\users\admin\documents\visual studio 2015\Projects\SeizureDetection\SeizureDetection\bin\Debug\SeizureDetection.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\SeizureDetection\SeizureDetection\obj\Debug\SeizureDetection.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\SeizureDetection\SeizureDetection\obj\Debug\MainWindow.g.cs
+c:\users\admin\documents\visual studio 2015\Projects\SeizureDetection\SeizureDetection\obj\Debug\App.g.cs
+c:\users\admin\documents\visual studio 2015\Projects\SeizureDetection\SeizureDetection\obj\Debug\SeizureDetection_MarkupCompile.cache
+c:\users\admin\documents\visual studio 2015\Projects\SeizureDetection\SeizureDetection\obj\Debug\SeizureDetection_MarkupCompile.lref
+C:\Users\admin\Documents\Visual Studio 2015\Projects\SeizureDetection\SeizureDetection\bin\Debug\SeizureDetection.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\SeizureDetection\SeizureDetection\bin\Debug\SeizureDetection.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\SeizureDetection\SeizureDetection\bin\Debug\Sandboxable.Microsoft.WindowsAzure.Storage.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\SeizureDetection\SeizureDetection\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\SeizureDetection\SeizureDetection\bin\Debug\Sandboxable.Microsoft.WindowsAzure.Storage.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\SeizureDetection\SeizureDetection\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\SeizureDetection\SeizureDetection\obj\Debug\MainWindow.baml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\SeizureDetection\SeizureDetection\obj\Debug\SeizureDetection.g.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\SeizureDetection\SeizureDetection\obj\Debug\SeizureDetection.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\SeizureDetection\SeizureDetection\obj\Debug\SeizureDetection.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\SeizureDetection\SeizureDetection\obj\Debug\SeizureDetection.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\SeizureDetection\SeizureDetection\obj\Debug\SeizureDetection.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\SeizureDetection\SeizureDetection\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\SeizureDetection\SeizureDetection\bin\Debug\Newtonsoft.Json.xml
+I:\SeizureDetection\SeizureDetection\bin\Debug\SeizureDetection.exe.config
+I:\SeizureDetection\SeizureDetection\obj\Debug\SeizureDetection.exe
+I:\SeizureDetection\SeizureDetection\obj\Debug\SeizureDetection.pdb
+I:\SeizureDetection\SeizureDetection\bin\Debug\SeizureDetection.exe
+I:\SeizureDetection\SeizureDetection\bin\Debug\SeizureDetection.pdb
+I:\SeizureDetection\SeizureDetection\bin\Debug\Newtonsoft.Json.dll
+I:\SeizureDetection\SeizureDetection\bin\Debug\Sandboxable.Microsoft.WindowsAzure.Storage.dll
+I:\SeizureDetection\SeizureDetection\bin\Debug\System.Net.Http.Formatting.dll
+I:\SeizureDetection\SeizureDetection\bin\Debug\Newtonsoft.Json.xml
+I:\SeizureDetection\SeizureDetection\bin\Debug\Sandboxable.Microsoft.WindowsAzure.Storage.pdb
+I:\SeizureDetection\SeizureDetection\bin\Debug\System.Net.Http.Formatting.xml
+I:\SeizureDetection\SeizureDetection\obj\Debug\SeizureDetection.csprojResolveAssemblyReference.cache
+I:\SeizureDetection\SeizureDetection\obj\Debug\MainWindow.g.cs
+I:\SeizureDetection\SeizureDetection\obj\Debug\App.g.cs
+I:\SeizureDetection\SeizureDetection\obj\Debug\SeizureDetection_MarkupCompile.cache
+I:\SeizureDetection\SeizureDetection\obj\Debug\SeizureDetection_MarkupCompile.lref
+I:\SeizureDetection\SeizureDetection\obj\Debug\MainWindow.baml
+I:\SeizureDetection\SeizureDetection\obj\Debug\SeizureDetection.g.resources
+I:\SeizureDetection\SeizureDetection\obj\Debug\SeizureDetection.Properties.Resources.resources
+I:\SeizureDetection\SeizureDetection\obj\Debug\SeizureDetection.csproj.GenerateResource.Cache

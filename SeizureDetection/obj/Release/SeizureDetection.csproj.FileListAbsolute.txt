@@ -1,0 +1,38 @@
+C:\Users\admin\Documents\Visual Studio 2015\Projects\SeizureDetection\SeizureDetection\bin\Release\SeizureDetection.exe.config
+C:\Users\admin\Documents\Visual Studio 2015\Projects\SeizureDetection\SeizureDetection\bin\Release\SeizureDetection.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\SeizureDetection\SeizureDetection\bin\Release\SeizureDetection.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\SeizureDetection\SeizureDetection\bin\Release\Newtonsoft.Json.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\SeizureDetection\SeizureDetection\bin\Release\Sandboxable.Microsoft.WindowsAzure.Storage.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\SeizureDetection\SeizureDetection\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\SeizureDetection\SeizureDetection\bin\Release\Newtonsoft.Json.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\SeizureDetection\SeizureDetection\bin\Release\Sandboxable.Microsoft.WindowsAzure.Storage.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\SeizureDetection\SeizureDetection\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\SeizureDetection\SeizureDetection\obj\Release\MainWindow.g.cs
+C:\Users\admin\Documents\Visual Studio 2015\Projects\SeizureDetection\SeizureDetection\obj\Release\App.g.cs
+C:\Users\admin\Documents\Visual Studio 2015\Projects\SeizureDetection\SeizureDetection\obj\Release\SeizureDetection_MarkupCompile.cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\SeizureDetection\SeizureDetection\obj\Release\SeizureDetection_MarkupCompile.lref
+C:\Users\admin\Documents\Visual Studio 2015\Projects\SeizureDetection\SeizureDetection\obj\Release\MainWindow.baml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\SeizureDetection\SeizureDetection\obj\Release\SeizureDetection.g.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\SeizureDetection\SeizureDetection\obj\Release\SeizureDetection.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\SeizureDetection\SeizureDetection\obj\Release\SeizureDetection.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\SeizureDetection\SeizureDetection\obj\Release\SeizureDetection.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\SeizureDetection\SeizureDetection\obj\Release\SeizureDetection.pdb
+I:\SeizureDetection\SeizureDetection\bin\Release\SeizureDetection.exe.config
+I:\SeizureDetection\SeizureDetection\obj\Release\SeizureDetection.exe
+I:\SeizureDetection\SeizureDetection\obj\Release\SeizureDetection.pdb
+I:\SeizureDetection\SeizureDetection\bin\Release\SeizureDetection.exe
+I:\SeizureDetection\SeizureDetection\bin\Release\SeizureDetection.pdb
+I:\SeizureDetection\SeizureDetection\bin\Release\Newtonsoft.Json.dll
+I:\SeizureDetection\SeizureDetection\bin\Release\Sandboxable.Microsoft.WindowsAzure.Storage.dll
+I:\SeizureDetection\SeizureDetection\bin\Release\System.Net.Http.Formatting.dll
+I:\SeizureDetection\SeizureDetection\bin\Release\Newtonsoft.Json.xml
+I:\SeizureDetection\SeizureDetection\bin\Release\Sandboxable.Microsoft.WindowsAzure.Storage.pdb
+I:\SeizureDetection\SeizureDetection\bin\Release\System.Net.Http.Formatting.xml
+I:\SeizureDetection\SeizureDetection\obj\Release\MainWindow.g.cs
+I:\SeizureDetection\SeizureDetection\obj\Release\App.g.cs
+I:\SeizureDetection\SeizureDetection\obj\Release\SeizureDetection_MarkupCompile.cache
+I:\SeizureDetection\SeizureDetection\obj\Release\SeizureDetection_MarkupCompile.lref
+I:\SeizureDetection\SeizureDetection\obj\Release\MainWindow.baml
+I:\SeizureDetection\SeizureDetection\obj\Release\SeizureDetection.g.resources
+I:\SeizureDetection\SeizureDetection\obj\Release\SeizureDetection.Properties.Resources.resources
+I:\SeizureDetection\SeizureDetection\obj\Release\SeizureDetection.csproj.GenerateResource.Cache
